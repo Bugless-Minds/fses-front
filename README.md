@@ -1,18 +1,22 @@
-# FSEF - First Stage Evaluation System
+# FSES - First Stage Evaluation System
 
 1. Install dependencies
 
-npm install
+   npm install
 
 2. Start the development server
 
-npm run dev
+   npm run dev
 
 3. Routes
-   
-login - http://localhost:5173/
-office assistant - http://localhost:5173/officeAssistant
-supervisor - http://localhost:5173/supervisor
-program coordinator - http://localhost:5173/ProgramCoordinator
-pgam - http://localhost:5173/PGAM
+
+   Login: http://localhost:5173/
+
+   Office Assistant: http://localhost:5173/officeAssistant
+
+   Supervisor: http://localhost:5173/supervisor
+
+   Program Coordinator: http://localhost:5173/ProgramCoordinator
+
+   PGAM: http://localhost:5173/PGAM
 
